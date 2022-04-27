@@ -2,20 +2,29 @@
 
 # Project Name : Awesome books
 
-> For this repositary , We've create an hmtl, styling, and javascript to in order to build a booking list. functions of this booking list App are adding a book, removing a book and saving and removing from loacl storage. 
+>"**Awesome books**" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.
 
+<p align="center">
+  <img src="https://github.com/microverseinc/curriculum-javascript/blob/main/books/images/awesome_books_full_website.png" alt="Full website" />
+</p>
 
 ## Built With
 
 - HTML
-- CSS
+- Basic CSS (**medium-fidelity** wireframe)
 - Vanilla JavaScript
-- Github
+- Git/GitHub work-flow
 
-## Live Demo (if available)
+## :red_circle: Live Demo
 
-[Live Demo Link]( https://hsmathebula.github.io/Awesome-books-plain-JavaScript-with-objects/)
+[Live Demo Link]( https://khitermedachraf.github.io/Awesome-books-Js/)
 
+## Requirements
+
+- Linters configuration.
+- Part 1: Manage books collection (plain JS with objects).
+- Part 2: Manage books collection (plain JS with classes) and add basic CSS.
+- Part 3: Create a complete website with navigation.
 
 ## Getting Started
 
@@ -57,11 +66,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Happen Mathebula**
-
-- GitHub: [@HSMathebula](https://github.com/HSMathebula)
-- LinkedIn: [@HSmathebula](https://www.linkedin.com/in/happen-mathebula-4b0438115/)
-
 👤 **Achraf KHITER**
 
 - GitHub: [![GitHub Badge](https://img.shields.io/badge/-khitermedachraf-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/khitermedachraf/)
@@ -70,6 +74,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-@AchrafKhiter-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/AchrafKhiter)
 - Instagram: [![Instagram Badge](https://img.shields.io/badge/-@khitermed-white?logo=Instagram&logoColor=bc2a8d&style=plastic)](https://www.instagram.com/khitermed07/)
 - Facebook: [![Facebook Badge](https://img.shields.io/badge/-Achraf--KHITER-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/achraf.khiter.750/)
+
+👤 **Happen Mathebula**
+
+- GitHub: [@HSMathebula](https://github.com/HSMathebula)
+- LinkedIn: [@HSmathebula](https://www.linkedin.com/in/happen-mathebula-4b0438115/)
+
 
 ## 🤝 Contributing
 
