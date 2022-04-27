@@ -17,7 +17,7 @@
 
 ## :red_circle: Live Demo
 
-[Live Demo Link]( https://hsmathebula.github.io/Awesome-books-plain-JavaScript-with-objects/)
+[Live Demo Link]( https://khitermedachraf.github.io/Awesome-books-Js/)
 
 ## Requirements
 
