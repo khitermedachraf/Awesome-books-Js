@@ -11,9 +11,9 @@
 ## Built With
 
 - HTML
-- CSS
+- Basic CSS (**medium-fidelity** wireframe)
 - Vanilla JavaScript
-- Github
+- Git/GitHub work-flow
 
 ## :red_circle: Live Demo
 
@@ -21,6 +21,7 @@
 
 ## Requirements
 
+- Linters configuration.
 - Part 1: Manage books collection (plain JS with objects).
 - Part 2: Manage books collection (plain JS with classes) and add basic CSS.
 - Part 3: Create a complete website with navigation.
