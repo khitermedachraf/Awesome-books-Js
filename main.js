@@ -113,6 +113,7 @@ document.getElementById('current-date').innerHTML = currentDate;
 // display the books list when click the button "List"
 const bookList = document.querySelector('.book-list-container');
 const listBtn = document.querySelector('.listBtn');
+const formContainer = document.querySelector('.form-container');
 
 listBtn.addEventListener('click', () => {
   bookList.style.display = 'block';
@@ -126,7 +127,6 @@ window.addEventListener('load', () => {
 });
 
 // display the Add book form  when click the button "Add new"
-const formContainer = document.querySelector('.form-container');
 const addNewBtn = document.querySelector('.add-new-btn');
 
 addNewBtn.addEventListener('click', () => {
@@ -135,7 +135,7 @@ addNewBtn.addEventListener('click', () => {
   contactInfo.style.display = 'none';
 });
 
-// display the Add book form  when click the button "Contact"
+// display the  Contact section when click the button "Contact"
 const contactBtn = document.querySelector('.contact');
 const contactInfo = document.querySelector('.contact-info');
 
