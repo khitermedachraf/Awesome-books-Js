@@ -13,6 +13,7 @@
 - HTML
 - Basic CSS (**medium-fidelity** wireframe)
 - Vanilla JavaScript
+- Linters (Lighthouse, Webhint, Stylelint, Eslint)
 - Git/GitHub work-flow
 
 ## :red_circle: Live Demo
